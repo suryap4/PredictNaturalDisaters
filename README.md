@@ -1,4 +1,3 @@
-# codefundopp
 # Predict Natural Disasters
 use RaspberryPi & SenseHat to measure the readings of Temperature, Humidity and pressure etc.,
 use Machine Learning algorithms to predict the natural disasters based on previous data with the collection of all the natural disasters occurred till now.
